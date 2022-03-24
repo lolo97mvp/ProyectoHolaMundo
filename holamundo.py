@@ -1,0 +1,11 @@
+print("HOLA MUNDO")
+print("Hola","mundo")
+print("hola","mundo",sep="")
+print("hola","","mundo",sep="",end="***")
+nombre="lolo"
+print("hola"," ",nombre,sep="")
+print("En un 'lugar' de La Mancha")
+print('En un "lugar" de La Mancha')
+print("En un \"lugar\" de La Mancha")
+print("En un \"lugar\" de La\tMancha")
+print("En un \"lugar\" de La\nMancha")
